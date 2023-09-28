@@ -1,0 +1,30 @@
+1. Enter key for feature no. 6
+2. Put resolution value in this format (underscore means a space) => Width_Height
+3. Put the pixel location (To get the pixel location simply open the image using windows paint app then point the cursor to it and notice the position down below that changes if coursor moves over the image).
+4. After enter the pixel location keeping spaces in between of its width and height you should get the exact vertices by now.
+Hope you understand!
+
+Here is a random inputs and results for you watch:
+
+-------------------------------------------
+          COLOR CONVERSION
+-------------------------------------------
+        1. RGB to CMYK
+        2. RGB to CMY
+        3. CMYK to RGB
+        4. CMY to RGB
+        5. Read Manual
+        6. Find OpenGL vertices from pixel numbers! New Feature
+        7. Exit
+6
+Enter photo dimensions (width and length): 1920 1080
+        1. Calculate vertices
+        2. Go Back
+1
+Enter pixel position: 1045 509
+(x,y) is glVertex2f(0.0885417f,0.0574074f);
+        1. Calculate vertices
+        2. Go Back
+1
+Enter pixel position: 960 540
+(x,y) is glVertex2f(0f,0f);
