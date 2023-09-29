@@ -15,7 +15,7 @@ To obtain pixel locations, follow these steps:
 ### 4. Finding Exact Vertices
 After entering the pixel location, ensure there are spaces between the width and height values. This will allow you to determine the exact vertices.
 
-I hope these instructions are clear and help you make the most of the application. If you require access to the source code, you can request via email at: rakibulmrh4bd@gmail.com
+I hope these instructions are clear and help you make the most of the application. If you require access to the source code, you can request it via email at: rakibulmrh4bd@gmail.com
 
 
 Here are some random inputs and results for you:
@@ -42,3 +42,8 @@ Enter pixel position: 1045 509
 1
 Enter pixel position: 960 540
 (x,y) is glVertex2f(0f,0f);
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                      Compatible with windows 
+                                                                             Thank you!
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
